@@ -1,0 +1,160 @@
+cv:
+  name: Yu-Tien Hsu
+  label: Postdoctoral Associate
+  email: yu-tien.hsu@yale.edu
+  location: New Haven, CT
+  image: ""
+  summary: >
+    Physician and social epidemiologist studying mental health and social determinants of psychiatric outcomes
+    using large-scale datasets, mixed methods, and advanced quantitative methods.
+    Aspiring psychiatrist with interests in addiction, aging, and integrated clinical–research approaches.
+
+  social_networks:
+    - network: GitHub
+      username: ythsu118
+
+  address:
+    city: New Haven
+    region: Connecticut
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Harvard University, Griffin Graduate School of Arts & Sciences
+        location: Cambridge, MA
+        area: Population Health Sciences — Social & Behavioral Sciences
+        studyType: Ph.D.
+        start_date: 2019-08
+        end_date: 2024-05
+        highlights:
+          - "Major: Social epidemiology; Minor: Quantitative methods"
+          - "Advisor: Ichiro Kawachi, MB.ChB., Ph.D."
+          - "Dissertation: \"Healthy Cognitive Aging: The Influences of Social Participation and Caregiving\""
+          - "Government Scholarship to Study Abroad, Ministry of Education, Taiwan"
+
+      - institution: Harvard T.H. Chan School of Public Health
+        location: Boston, MA
+        area: Social & Behavioral Sciences
+        studyType: M.P.H.
+        start_date: 2016-08
+        end_date: 2018-05
+        highlights:
+          - "Thesis: \"Timing of family adversity during adolescence and its impact on alcohol and tobacco initiation\""
+          - "Harvard Club of the Republic of China Scholarship"
+
+      - institution: National Yang Ming Chiao Tung University
+        location: Taipei, Taiwan
+        area: Medicine
+        studyType: M.D.
+        start_date: 2009-09
+        end_date: 2016-06
+
+    Experience:
+      - company: Yale University School of Public Health
+        position: Postdoctoral Associate, Department of Social & Behavioral Sciences
+        location: New Haven, CT
+        start_date: 2024-07
+        end_date: present
+        summary: Supervisor — Yusuf Ransome, Dr.PH
+        highlights:
+          - Social connectedness influences on mid-aged and older adults' mental health outcomes.
+
+      - company: Massachusetts General Hospital / Harvard Medical School
+        position: Research Fellow, Codman Center for Clinical Effectiveness in Surgery
+        location: Boston, MA
+        start_date: 2018-06
+        end_date: 2019-07
+        summary: Supervisor — David C. Chang, Ph.D., M.P.H., M.B.A.
+        highlights:
+          - Social determinants of access to surgical care and injuries distribution.
+
+    Awards:
+      - title: APA Research Colloquium for Junior Psychiatrist Investigators
+        awarder: American Psychiatric Association
+        date: 2026-05
+        summary: Recognizing early-career physician-scientists with strong commitment to academic psychiatry; participation deferred to 2027.
+
+      - title: PASS Program
+        awarder: American Psychiatric Association 2026 Annual Meeting
+        date: 2026-05
+        summary: Recognizing trainees committed to mental health equity, community psychiatry, and service to underserved populations.
+
+      - title: AAGP Honor Scholar
+        awarder: American Association for Geriatric Psychiatry 2026 Annual Meeting
+        date: 2026-04
+        summary: Selected for Honors Scholars Alumni Session oral presentation; travel award ($300).
+
+      - title: Regional Travel Award
+        awarder: American Academy of Addiction Psychiatry 2025 Annual Meeting
+        date: 2025-11
+        summary: Competitive award ($1,500) recognizing academic contributions in addiction psychiatry.
+
+      - title: NATMA Foundation Scholarship
+        awarder: North American Taiwanese Medical Association
+        date: 2025-10
+        summary: $3,000 scholarship recognizing academic excellence and contributions to the Taiwanese American community.
+
+      - title: Top Reviewer Recognition (Top 5%)
+        awarder: JAMA Network Open
+        date: 2025-01
+        summary: Top 5% Peer Reviewer Recognition for 2024.
+
+      - title: AAGP Scholar
+        awarder: American Association for Geriatric Psychiatry 2025 Annual Meeting
+        date: 2025-03
+        summary: Early career development program in geriatric psychiatry.
+
+      - title: Harvard GSAS Career Development Grant
+        awarder: Harvard University
+        date: 2023-06
+        summary: $2,500 travel grant.
+
+      - title: Government Scholarship to Study Abroad
+        awarder: Ministry of Education, Taiwan
+        date: 2021-06
+        summary: $60,000 scholarship for doctoral training abroad.
+
+      - title: The Mack Lipkin, Sr. Associate Member Award
+        awarder: Society of General Internal Medicine
+        date: 2019-05
+        summary: Awarded for outstanding research presentation.
+
+      - title: Harvard Club of the Republic of China Scholarship
+        awarder: Harvard Club of ROC
+        date: 2016-06
+        summary: $10,000 scholarship for a Taiwanese student admitted to Harvard University.
+
+    Skills:
+      - name: Quantitative Methods
+        level: Expert
+        icon: fa-solid fa-chart-line
+        keywords: "Causal mediation analysis, Sequence analysis, Instrumental variable analysis, Longitudinal data analysis, Machine learning"
+
+      - name: Research Methods
+        level: Expert
+        icon: fa-solid fa-microscope
+        keywords: "Social epidemiology, Mixed methods, Qualitative research, Survey design, Psychometric methods"
+
+      - name: Statistical Software
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "R, Stata, SAS, SPSS"
+
+    Languages:
+      - name: English
+        summary: "Full professional proficiency"
+
+      - name: Chinese Mandarin
+        summary: "Native proficiency"
+
+      - name: Taiwanese Hokkien
+        summary: "Native proficiency"
+
+    Certificates:
+      - name: Data or Specimens Only Research
+        issuer: CITI Program
+        icon: fa-solid fa-certificate
+
+      - name: Social & Behavioral Research Investigators
+        issuer: CITI Program
+        icon: fa-solid fa-certificate
