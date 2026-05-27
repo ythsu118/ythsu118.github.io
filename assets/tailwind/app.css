@@ -1,11 +1,4 @@
-/* Remove top gap above navbar */
+/* Push page content below the fixed navbar (~60px navbar height) */
 body {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-header,
-nav.navbar {
-  margin-top: 0 !important;
-  top: 0 !important;
+  padding-top: 60px !important;
 }
